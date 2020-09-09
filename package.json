@@ -1,5 +1,5 @@
 {
-  "name": "gatsby-theme-novela-workspace",
+  "name": "gatsby-theme-alexohneander-workspace",
   "private": true,
   "version": "0.0.1",
   "main": "index.js",
@@ -13,7 +13,7 @@
     "publish": "yarn lerna version && yarn lerna publish"
   },
   "workspaces": [
-    "@narative/gatsby-theme-novela",
+    "@alexohneander/gatsby-theme-alexohneander",
     "www"
   ],
   "devDependencies": {

@@ -1,7 +1,7 @@
 {
   "useWorkspaces": true,
   "packages": [
-    "@narative/gatsby-theme-novela"
+    "@alexohneander/gatsby-theme-alexohneander"
   ],
   "npmClient": "yarn",
   "command": {
